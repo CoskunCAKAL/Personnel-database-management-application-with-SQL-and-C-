@@ -1,0 +1,12 @@
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Personal-Veri-Tabanı-Yönetimi\Udemy-Personal-Veri-Tabanı-Yönetimi\bin\Debug\Udemy-Personal-Veri-Tabanı-Yönetimi.exe.config
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Personal-Veri-Tabanı-Yönetimi\Udemy-Personal-Veri-Tabanı-Yönetimi\bin\Debug\Udemy-Personal-Veri-Tabanı-Yönetimi.exe
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Personal-Veri-Tabanı-Yönetimi\Udemy-Personal-Veri-Tabanı-Yönetimi\bin\Debug\Udemy-Personal-Veri-Tabanı-Yönetimi.pdb
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Personal-Veri-Tabanı-Yönetimi\Udemy-Personal-Veri-Tabanı-Yönetimi\obj\Debug\Udemy-Personal-Veri-Tabanı-Yönetimi.csproj.AssemblyReference.cache
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Personal-Veri-Tabanı-Yönetimi\Udemy-Personal-Veri-Tabanı-Yönetimi\obj\Debug\Udemy-Personal-Veri-Tabanı-Yönetimi.csproj.SuggestedBindingRedirects.cache
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Personal-Veri-Tabanı-Yönetimi\Udemy-Personal-Veri-Tabanı-Yönetimi\obj\Debug\Udemy_Personal_Veri_Tabanı_Yönetimi.Form1.resources
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Personal-Veri-Tabanı-Yönetimi\Udemy-Personal-Veri-Tabanı-Yönetimi\obj\Debug\Udemy_Personal_Veri_Tabanı_Yönetimi.Properties.Resources.resources
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Personal-Veri-Tabanı-Yönetimi\Udemy-Personal-Veri-Tabanı-Yönetimi\obj\Debug\Udemy-Personal-Veri-Tabanı-Yönetimi.csproj.GenerateResource.cache
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Personal-Veri-Tabanı-Yönetimi\Udemy-Personal-Veri-Tabanı-Yönetimi\obj\Debug\Udemy-Personal-Veri-Tabanı-Yönetimi.csproj.CoreCompileInputs.cache
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Personal-Veri-Tabanı-Yönetimi\Udemy-Personal-Veri-Tabanı-Yönetimi\obj\Debug\Udemy-Personal-Veri-Tabanı-Yönetimi.exe
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Personal-Veri-Tabanı-Yönetimi\Udemy-Personal-Veri-Tabanı-Yönetimi\obj\Debug\Udemy-Personal-Veri-Tabanı-Yönetimi.pdb
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Personal-Veri-Tabanı-Yönetimi\Udemy-Personal-Veri-Tabanı-Yönetimi\obj\Debug\Udemy_Personal_Veri_Tabanı_Yönetimi.frmistatistik.resources
